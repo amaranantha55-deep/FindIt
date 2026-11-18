@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE = 'http://localhost:5000/api/items';
+const API_BASE = 'https://findit-q2hk.onrender.com/api/items';
 
 const CATEGORIES = [
   'Electronics',
